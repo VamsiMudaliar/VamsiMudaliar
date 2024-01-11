@@ -16,7 +16,7 @@
 
 💬 Ask me about **Javascript, Salesforce, Apex... or anything [here](https://github.com/VamsiMudaliar/VamsiMudaliar/issues)**
 
-⚡ Fun fact - **🎌 anime enthusiast!, Feel free to strike up a conversation about your favourite anime—I'm always up for recommendations!**
+⚡ Fun fact - **🎌 binge watches anime!, Feel free to strike up a conversation about your favourite anime—I'm always up for recommendations!**
 
  </div>
  
