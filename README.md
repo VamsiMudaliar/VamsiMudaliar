@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **Docker, GoLang, NextJS**
 
-💬 Ask me about ** Javascript, Salesforce, Apex... or anything [here](https://github.com/VamsiMudaliar/VamsiMudaliar/issues)**
+💬 Ask me about **Javascript, Salesforce, Apex... or anything [here](https://github.com/VamsiMudaliar/VamsiMudaliar/issues)**
 
-⚡ Fun fact ** 🎌 anime enthusiast! I love to immerse myself in captivating storylines and visually stunning worlds. Feel free to strike up a conversation about your favourite anime—I'm always up for recommendations! **
+⚡ Fun fact - **🎌 anime enthusiast!, Feel free to strike up a conversation about your favourite anime—I'm always up for recommendations!**
 
  </div>
  
